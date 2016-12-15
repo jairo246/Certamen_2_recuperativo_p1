@@ -1,0 +1,7 @@
+#Wed Dec 14 21:48:31 CLT 2016
+base.0=C\:\\Proyectos_android\\CertamenRecuperativo_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_690d19cc1c4dd3bcb0a94a1ed56abd62e1202579
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Proyectos_android\\CertamenRecuperativo_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f679fe23703735f56882c98c4783ab9c60b0421\\classes.dex
+base.1=C\:\\Proyectos_android\\CertamenRecuperativo_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8f679fe23703735f56882c98c4783ab9c60b0421
+file.0=C\:\\Proyectos_android\\CertamenRecuperativo_1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_690d19cc1c4dd3bcb0a94a1ed56abd62e1202579\\classes.dex
